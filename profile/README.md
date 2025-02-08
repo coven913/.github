@@ -21,3 +21,6 @@ Everything published here is explicitly published AS IS and without any warranty
 ## Conduct:
 
 If you interact with us, we strongly encourage you to follow our [Code of Conduct](/profile/CODE_OF_CONDUCT.md). Failure to do so will result in etenarl banishment.
+
+---
+> We can also be found on [gitlab](https://gitlab.com/coven913)
